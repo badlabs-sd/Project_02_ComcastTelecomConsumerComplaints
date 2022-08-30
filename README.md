@@ -5,8 +5,7 @@ Comcast is an American global telecommunication company. The firm has been provi
 
 - Provide the trend chart for the number of complaints at monthly and daily granularity levels.
 - Provide a table with the frequency of complaint types.
-
-Which complaint types are maximum i.e., around internet, network issues, or across any other domains.
+- Which complaint types are maximum i.e., around internet, network issues, or across any other domains.
 - Create a new categorical variable with value as Open and Closed. Open & Pending is to be categorized as Open and Closed & Solved is to be categorized as Closed.
 - Provide state wise status of complaints in a stacked bar chart. Use the categorized variable from Q3.
 - Provide insights on:
